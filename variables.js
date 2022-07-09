@@ -1,0 +1,9 @@
+var dog = 'Lou'
+var breed = 'Black Lab'
+var passion = 'Fetch'
+var age = 10
+var paws = 4
+var tail = 1
+var goodBoy = true
+var sleeping = true
+var meanDemeanor = false
